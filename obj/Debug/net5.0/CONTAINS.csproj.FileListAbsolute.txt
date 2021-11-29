@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\bin\Debug\net5.0\CONTAINS.exe
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\bin\Debug\net5.0\CONTAINS.deps.json
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\bin\Debug\net5.0\CONTAINS.runtimeconfig.json
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\bin\Debug\net5.0\CONTAINS.runtimeconfig.dev.json
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\bin\Debug\net5.0\CONTAINS.dll
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\bin\Debug\net5.0\ref\CONTAINS.dll
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\bin\Debug\net5.0\CONTAINS.pdb
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.AssemblyInfo.cs
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.dll
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\ref\CONTAINS.dll
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.pdb
+C:\projetos\ams\1ano\ManipulacaoStringsCONTAINS\CONTAINS\obj\Debug\net5.0\CONTAINS.genruntimeconfig.cache
