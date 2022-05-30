@@ -1,5 +1,3 @@
-# contains
-
 Atividade Individual: MANIPULAÇÃO DE STRINGS - CONTAINS
 
 1) DEFINIÇÃO DO CONTAINS (o que é ? / para que serve?)
